@@ -22,6 +22,7 @@ chenjie/README.md
 
 
 
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${cgon0007cgon0007})
 
 
 
