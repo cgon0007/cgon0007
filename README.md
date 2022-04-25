@@ -25,7 +25,7 @@ chenjie/README.md
 ![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${cgon0007cgon0007})
 
 
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cgon0007.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 
 
 
