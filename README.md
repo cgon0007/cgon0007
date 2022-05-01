@@ -18,14 +18,19 @@ Here are some ideas to get you started:
 chenjie/README.md
 
 📫 How to reach me: e-mail address->gcjbest@iCloud.com 
-🌱 I’m currently MONASH Mbat student
+- 🌱 I’m currently MONASH Mbat student
+- 🔭 I’m currently working on forecast, ml, statistic model
+- 🌱 I’m currently learning dl
+- 👯 I’m looking to collaborate on google summer coding
+- 💬 Ask me about forecast, ml, statistic model and funny thing
+- 📫 How to reach me:)
+- 😄 Pronouns: take pains, be perfect
+- ⚡ Fun fact: dancing
 
 
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${cgon0007cgon0007})
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cgon0007.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cgon0007.visitor-badge&left_color=green&right_color=red&left_text=Hello%20yVisitors)
 
 
 
