@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-chenjie/README.md
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cgon0007.visitor-badge&left_color=green&right_color=red&left_text=Hello%20Your%20Are&right_text=Vistors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cgon0007.visitor-badge&left_color=green&right_color=red&left_text=Hello%40Your%40Are%40Vistors)
 
 
-📫 How to reach me: e-mail address->gcjbest@iCloud.com 
+
 - 🌱 I’m currently MONASH Mbat student
 - 🔭 I’m currently working on forecast, ml, statistic model
 - 🌱 I’m currently learning dl
